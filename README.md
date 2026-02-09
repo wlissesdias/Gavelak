@@ -50,15 +50,4 @@ Tipos e interfaces TypeScript para modelar dados e props.
 
 Estrutura pensada para facilitar leitura e manutenção por outros desenvolvedores.
 
-🚀 Execução em Ambiente Local
-# Clonar o repositório
-git clone https://github.com/seu-usuario/gavelak.com.git
 
-# Entrar no diretório
-cd gavelak.com
-
-# Instalar dependências
-npm install
-
-# Rodar o projeto em modo desenvolvimento
-npm run dev
